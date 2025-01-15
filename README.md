@@ -4,7 +4,7 @@ A única coisa que deixei pra vocês foi exemplos de usos
 
 Enfim, Espero que gostem e façam um bom uso ❤️
 
-Não vou pedir créditos nenhum, considerem essa base um presente de ano novo 🎉
+(Não vou pedir créditos nenhum, considerem essa base um presente de ano novo 🎉)
 <br>
 
 ## Instalação:
