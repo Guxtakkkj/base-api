@@ -13,7 +13,6 @@ Enfim, Espero que gostem e façam um bom uso❤️
 
 ``` yarn install ```
 
-
 ## Iniciar: 
 
 (Existe 2 formas de iniciar)
